@@ -1,0 +1,21 @@
+body {
+background-color: lightblue;
+}
+
+h1 {
+background-color: black;
+width: 400px;
+padding: 40px;
+border: 10px gray solid;
+margin: 30px;
+    color: white;
+
+
+    text-align: center;
+}
+li {
+    color: goldenrod;
+}
+a {
+    color: black;
+}
